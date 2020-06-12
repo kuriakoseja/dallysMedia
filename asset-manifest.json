@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dallysMedia/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dallysMedia/static/js/main.fd1998b8.chunk.js",
+    "main.js.map": "/dallysMedia/static/js/main.fd1998b8.chunk.js.map",
+    "runtime-main.js": "/dallysMedia/static/js/runtime-main.61514994.js",
+    "runtime-main.js.map": "/dallysMedia/static/js/runtime-main.61514994.js.map",
+    "static/js/2.2f5ef2c2.chunk.js": "/dallysMedia/static/js/2.2f5ef2c2.chunk.js",
+    "static/js/2.2f5ef2c2.chunk.js.map": "/dallysMedia/static/js/2.2f5ef2c2.chunk.js.map",
+    "index.html": "/dallysMedia/index.html",
+    "precache-manifest.df96d244a506e9804aee5ae3fa97919d.js": "/dallysMedia/precache-manifest.df96d244a506e9804aee5ae3fa97919d.js",
+    "service-worker.js": "/dallysMedia/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dallysMedia/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2f5ef2c2.chunk.js.LICENSE.txt": "/dallysMedia/static/js/2.2f5ef2c2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dallysMedia/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61514994.js",
+    "static/js/2.2f5ef2c2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fd1998b8.chunk.js"
+  ]
+}
