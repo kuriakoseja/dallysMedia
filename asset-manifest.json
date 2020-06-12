@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/production/static/css/main.5f361e03.chunk.css",
-    "main.js": "/production/static/js/main.ec962fad.chunk.js",
-    "main.js.map": "/production/static/js/main.ec962fad.chunk.js.map",
-    "runtime-main.js": "/production/static/js/runtime-main.3ac02ef7.js",
-    "runtime-main.js.map": "/production/static/js/runtime-main.3ac02ef7.js.map",
-    "static/js/2.2407abc4.chunk.js": "/production/static/js/2.2407abc4.chunk.js",
-    "static/js/2.2407abc4.chunk.js.map": "/production/static/js/2.2407abc4.chunk.js.map",
-    "index.html": "/production/index.html",
-    "precache-manifest.8101f77023b1951d7afe138c923170aa.js": "/production/precache-manifest.8101f77023b1951d7afe138c923170aa.js",
-    "service-worker.js": "/production/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/production/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2407abc4.chunk.js.LICENSE.txt": "/production/static/js/2.2407abc4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/production/static/media/logo.5d5d9eef.svg"
+    "main.css": "/dallysMedia/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dallysMedia/static/js/main.226bf305.chunk.js",
+    "main.js.map": "/dallysMedia/static/js/main.226bf305.chunk.js.map",
+    "runtime-main.js": "/dallysMedia/static/js/runtime-main.61514994.js",
+    "runtime-main.js.map": "/dallysMedia/static/js/runtime-main.61514994.js.map",
+    "static/js/2.2407abc4.chunk.js": "/dallysMedia/static/js/2.2407abc4.chunk.js",
+    "static/js/2.2407abc4.chunk.js.map": "/dallysMedia/static/js/2.2407abc4.chunk.js.map",
+    "index.html": "/dallysMedia/index.html",
+    "precache-manifest.f620dcf990187a74ccf57772045fe9b1.js": "/dallysMedia/precache-manifest.f620dcf990187a74ccf57772045fe9b1.js",
+    "service-worker.js": "/dallysMedia/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dallysMedia/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2407abc4.chunk.js.LICENSE.txt": "/dallysMedia/static/js/2.2407abc4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dallysMedia/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ac02ef7.js",
+    "static/js/runtime-main.61514994.js",
     "static/js/2.2407abc4.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ec962fad.chunk.js"
+    "static/js/main.226bf305.chunk.js"
   ]
 }
